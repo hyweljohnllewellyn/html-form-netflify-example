@@ -10,7 +10,7 @@ https://github.com/hyweljohnllewellyn/html-form-netflify-example
 Script
 This is a step—by-step example showing how to create and deploy a website page with a contact form - from start to finish.
 
-I use the Netlify platform to host Manu static sites and landing pages and Netlify’s contact forms are great for these sites.
+I use the Netlify platform to host many static sites and landing pages and Netlify’s contact forms are great for these sites.
 
 Netlify forms also includes free spam protection and a way to redirect to your own success page.
 
@@ -24,7 +24,6 @@ Step 1 - Create  a Repository for your website in GitHub
 After logging in to GitHub, Click on New next to Repository, give it a name and click Create repository 
 
 Step 2 - Create basic HTML page
-Now I’ll create a file , which will be the html website page. 
 Click add file, selecting Create new file, give it a name of index.html. 
 This is important as this is a 1 page site, Netlify looks for index.html as default. 
 I have a basic html page already coded.  You can refer you this basic page as a starting point.  The link to the GitHub repository with all the code is in the description.
