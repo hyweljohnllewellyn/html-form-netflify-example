@@ -1,5 +1,5 @@
 # html-form-netflify-example
-Source for https://html-form-example.netlify.app that is used in a youtube tutorial at https://www.youtube.com/channel/UCcarUCJtw6qm_WOzMo4m6rg and https://www.hywel.me
+Source for https://html-form-example.netlify.app that is used in a youtube tutorial at https://www.youtube.com/channel/UCcarUCJtw6qm_WOzMo4m6rg and https://www.hywel.me/sites/2021/11/15/website-page-with-contact-form-using-html-github-and-netlify.html
 
 #Full website page with contact form using HTML GitHub and Netlify
 
